@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisarakavishka" alt="thisarakavishka" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java & web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thisarakavishka?tab=repositories](https://github.com/Thisarakavishka?tab=repositories)
 
