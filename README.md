@@ -95,6 +95,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/thisarakavishka/thisarakavishka/output/snake.svg" alt="Snake animation" />
-
-###
