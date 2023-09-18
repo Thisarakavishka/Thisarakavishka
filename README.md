@@ -32,6 +32,22 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
+🎓 **Academic Background:**
+- I'm 19 years old and dedicated to honing my software engineering skills.
+- Currently, I'm enrolled in the GDSE program in IJSE, where I'm gaining valuable knowledge and practical experience in the world of software development.
+
+
+💻 **My Love for Coding:**
+- Coding isn't just a hobby for me; it's a way of life. I'm constantly exploring new technologies and programming languages to expand my skillset.
+- I'm particularly interested in `Java, Html, Css, JavaScript, mySQL` & frame works like `Bootstrap, Hibernate`. I'm always up for a coding challenge.
+
+🌟 **Why You Should Connect With Me:**
+- I'm eager to collaborate with fellow developers, learn from others, and contribute to exciting projects.
+- If you share a passion for software development, coding, or technology in general, let's connect and embark on this journey together!
+
+Feel free to reach out to me through [thisarakavishka0@gmail.com]() if you have any questions, want to collaborate, or just want to chat about tech. Let's connect and build amazing things together! 🚀
+
+
 ###
 
 <h3 align="center">Languages & Frameworks</h3>
